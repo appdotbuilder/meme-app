@@ -1,0 +1,9 @@
+This directory will contain sample meme images for seeding.
+In a real application, you would place actual meme images here:
+- sample-meme-1.jpg
+- sample-meme-2.jpg
+- sample-meme-3.jpg
+- sample-meme-4.jpg
+- sample-meme-5.jpg
+
+For testing purposes, the seeder references these files but they can be replaced with actual images.
